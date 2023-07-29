@@ -1,0 +1,10 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: #fff;
+  margin-bottom: 20px;
+  .logout-btn {
+    color: #fff;
+  }
+}
